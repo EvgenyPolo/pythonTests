@@ -1,4 +1,4 @@
-# import pytest
+# import pytest В PyCharm при установленном pytest всё работает без этой строчки
 from task_19_2_3.app.calculator import Calculator
 
 
